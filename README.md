@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning  C
 - 💞️ I’m not looking to collaborate 
 - 📫 How to reach me @randoms_OS on twitter
-- ⚡ Fun fact: I use windows 10 2018 LTSC and Windows 10 2016 LTSB
+- ⚡ Fun fact: I use ubuntu and OS X Mountain Lion and MacOS Sequioa 
 
 <!---
 RandomIsHeree/RandomIsHeree is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
