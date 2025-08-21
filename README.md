@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning  C
 - 💞️ I’m not looking to collaborate 
 - 📫 How to reach me @randoms_OS on twitter
-- ⚡ Fun fact: I use ubuntu and OS X Mountain Lion and MacOS Sequioa 
+- ⚡ Fun fact: I use ubuntu and OS X Mountain Lion and MacOS Sequioa
+
+- ----- changing to gitlab ---------
 
 <!---
 RandomIsHeree/RandomIsHeree is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
